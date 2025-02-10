@@ -1,5 +1,5 @@
 # Data Driven Approach to Predicting Game Success
-View project:[Data Driven Approach to Predicting Game Success]()
+View project:[Data Driven Approach to Predicting Game Success](https://github.com/BradyQuack/Data-Driven-Approach-to-Predicting-Game-Success/blob/main/GameFinal.ipynb)
 ## Project description
 You work for the online store Ice, which sells video games all over the world. User and expert reviews, genres, platforms (e.g. Xbox or PlayStation), and historical data on game sales are available from open sources. You need to identify patterns that determine whether a game succeeds or not. This will allow you to spot potential big winners and plan advertising campaigns.
 
